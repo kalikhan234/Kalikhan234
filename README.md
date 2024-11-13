@@ -1,10 +1,11 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*NTniSp4rvcVUPqIh-GoOIg.jpeg)
 
 <h1 align="center">Hi 👋, I'm Kalikhan234</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalikhan234&label=Profile%20views&color=0e75b6&style=flat" alt="kalikhan234" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalikhan234" alt="kalikhan234" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/5b/35/22/5b3522c29f18452b11bf3bd6c9fc4ade.jpg">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
